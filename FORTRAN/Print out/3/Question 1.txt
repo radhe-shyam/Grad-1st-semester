@@ -1,0 +1,47 @@
+C     PROGRAM TO FIND PERCENTAGE AND GRADE
+      WRITE(*,*)'ENTER THE TOTAL MAXIMUM MARKS OF SUBJECTS'
+      READ(*,*)TM
+      WRITE(*,*)'ENTER THE MARKS OF 5 SUBJECTS'
+      READ(*,*)A,B,C,D,E
+      SM=A+B+C+D+E
+      IF (SM .GT. TM) THEN
+      WRITE(*,*)'YOU HAVE TYPED WRONG MARKS'
+      ELSE
+      PERCENTAGE=SM*100/TM
+      WRITE(*,*)'PERCENT',PERCENTAGE 
+      IF (PERCENTAGE .GE. 90) THEN
+      WRITE(*,*)'GRADE            +A'
+      ELSEIF (PERCENTAGE .GE. 80) THEN
+      WRITE(*,*)'GRADE            A'
+      ELSEIF (PERCENTAGE .GE. 70) THEN
+      WRITE(*,*)'GRADE            +B'
+      ELSEIF (PERCENTAGE .GE. 65) THEN
+      WRITE(*,*)'GRADE            B'
+      ELSEIF (PERCENTAGE .GE. 55) THEN
+      WRITE(*,*)'GRADE            +C'
+      ELSEIF (PERCENTAGE .GE. 45) THEN
+      WRITE(*,*)'GRADE            C'
+      ELSEIF (PERCENTAGE .GE. 36) THEN
+      WRITE(*,*)'GRADE            D'
+      ELSE
+      WRITE(*,*)'RESULT           FAIL'
+      ENDIF
+      ENDIF
+      WRITE(*,*)'CREATED BY RADHE SHYAM JANGID'
+      STOP
+      END
+
+Output:-
+
+      ENTER THE TOTAL MAXIMUM MARKS OF SUBJECTS
+      250
+      ENTER THE MARKS OF 5 SUBJECTS
+      46
+      44
+      42
+      39
+      40
+      PERCENT        84.4000000
+      GRADE            A
+      CREATED BY RADHE SHYAM JANGID
+      Stop - Program terminated.

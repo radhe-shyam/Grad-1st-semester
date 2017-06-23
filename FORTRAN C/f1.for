@@ -1,0 +1,4 @@
+      write(*,*) 'hello'
+      stop
+      end
+

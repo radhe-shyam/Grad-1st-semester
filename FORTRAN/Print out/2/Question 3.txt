@@ -1,0 +1,20 @@
+C     PROGRAM TO FIND GREATEST NUMBER AMONG TWO NUMBERS
+      WRITE(*,*)'ENTER TWO NUMBERS'
+      READ(*,*)A,B
+      IF (A .GT. B) THEN
+      WRITE(*,*)'THE GREATEST NUMBER IS',A
+      ELSE
+      WRITE(*,*)'THE GREATEST NUMBER IS',B
+      ENDIF
+      WRITE(*,*)'CREATED BY RADHE SHYAM JANGID'
+      STOP
+      END
+
+Output:-
+
+      ENTER TWO NUMBERS
+      865
+      895
+      THE GREATEST NUMBER IS       895.0000000
+      CREATED BY RADHE SHYAM JANGID
+      Stop - Program terminated.

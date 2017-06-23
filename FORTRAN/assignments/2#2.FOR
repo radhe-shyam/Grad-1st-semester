@@ -1,0 +1,8 @@
+C     PROGRAM TO CALCULATE
+      WRITE(*,*)'ENTER THE VALUE FOR Y'
+      READ(*,*)Y
+      B=SQRT(Y**Y**Y)/ABS(EXP(Y)-TAN(Y))
+      WRITE(*,*)'THE RESULT IS',B
+      WRITE(*,*)'CREATED BY RADHE SHYAM JANGID'
+      STOP
+      END

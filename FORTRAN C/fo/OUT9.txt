@@ -1,0 +1,44 @@
+	PROGRAM 2.10
+	OUT PUT
+
+
+C:\FORTRAN>A2P10
+ENTER FINAL VALUE
+9
+            1
+            3
+            6
+           10
+           15
+           21
+           28
+           36
+           45
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+
+
+
+
+	PROGRAM 2.11
+	OUT PUT
+
+
+C:\FORTRAN>A2P11
+ENTER FINAL VALUE
+9
+            1
+            2
+            4
+            7
+           11
+           16
+           22
+           29
+           37
+           46
+Stop - Program terminated.
+
+C:\FORTRAN>

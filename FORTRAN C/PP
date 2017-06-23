@@ -1,0 +1,7 @@
+c      prog for simple int.
+       writr(*,*)'p,r,t'
+       read(*,*)p,r,t
+       i=(p*r*t)/100
+       write(*,*)i
+       stop
+       end

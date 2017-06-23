@@ -1,0 +1,57 @@
+	PROGRAM 1.1
+	OUT PUT
+
+C:\FORTRAN>a1p1
+ENTER FIRST VALUE
+2
+ENTER SECOND VALUE
+3
+SUM OF VALUES IS         5.0000000
+Stop - Program terminated.
+
+
+
+	PROGRAM 1.2
+	OUT PUT
+
+C:\FORTRAN>si
+ENTER PRINCIPLE:
+1000
+ENTER TIME:
+1
+ENTER RATE:
+10
+       100.0000000
+Stop - Program terminated.
+
+
+
+	PROGRAM 1.3
+	OUT PUT
+
+C:\FORTRAN>a1p3
+ENTER LENGTH:
+5
+ENTER WIDTH:
+3
+AREA        15.0000000
+PERIMETER        16.0000000
+Stop - Program terminated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+C      PROGRAM TO FIND OF AREA AND CIRCUMFERENCE OF A CIRCLE
+C      DESIGNED BY RAJESH ON 03/10/2007
+       WRITE(*,*)'ENTER ANY NUMBER'
+       READ(*,*)R
+       CIR=2*3.14*R
+       A=3.14*R*R
+       WRITE(*,*)'CIRCUMFERENCE=',CIR
+       WRITE(*,*)'AREA=',A
+       STOP
+       END

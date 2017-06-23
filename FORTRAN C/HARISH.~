@@ -1,0 +1,11 @@
+C     PROGRAM FOR ADDING TWO NUMBER
+      READ(*,*)A,B
+      C=A+B
+      WRITE(*,*)C
+      STOP
+      END
+      FOR1 HARISH.FOR
+      EXIT
+
+        
+

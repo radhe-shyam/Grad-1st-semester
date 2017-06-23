@@ -1,0 +1,24 @@
+C     PROGRAM TO CALCULATE SIMPLE INTEREST
+      WRITE(*,*)'ENTER THE PRINCIPLE'
+      READ(*,*)P
+      WRITE(*,*)'ENTER THE RATE'
+      READ(*,*)R
+      WRITE(*,*)'ENTER THE TIME'
+      READ(*,*)T
+      SI=P*R*T/100
+      WRITE(*,*)'THE SIMPLE INTEREST IS',SI
+      WRITE(*,*)'CREATED BY RADHE SHYAM JANGID'
+      STOP
+      END
+
+Output:-
+
+      ENTER THE PRINCIPLE
+      3000
+      ENTER THE RATE
+      5
+      ENTER THE TIME
+      3
+      THE SIMPLE INTEREST IS       450.0000000
+      CREATED BY RADHE SHYAM JANGID
+      Stop - Program terminated.

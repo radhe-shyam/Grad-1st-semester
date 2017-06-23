@@ -1,0 +1,5 @@
+c     PORG FOR PRINT
+      WRITE(*,*)'PRATEEK'
+      STOP
+      END
+

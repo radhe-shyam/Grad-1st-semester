@@ -1,0 +1,24 @@
+C     PROGRAM TO AREA TO CIRCUL
+C     DISGNED BY SURENDRA ON 3\10\2007
+      WRITE(*,*)'ENTER THE RADIOS OF CIRCUL
+      READ(*,*)R
+      A=3.14*R*R
+      WRITE(*,*)AREA.A
+      STOP
+      END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+

@@ -1,0 +1,17 @@
+      WRITE(*,*)'ENTER THE NO. : '
+      READ(*,*)N
+      I=IPRIME(N)
+      IF(I .EQ. 0) WRITE(*,*)'PRIME'
+      ELSE
+        WRITE(*,*)'NOT PRIME'
+      STOP
+      END
+
+      FUNCTION IPRIME(N)
+        I=0
+        DO 10 J=2,N/2
+                IF(MOD(N,J) .EQ. 0)  I=I+1
+10      CONTINUE
+      RETURN
+      STOP
+      END

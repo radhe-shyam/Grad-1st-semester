@@ -1,0 +1,17 @@
+C     PROGRAM TO CALCULATE
+      WRITE(*,*)'ENTER THE VALUE OF A,B'
+      READ(*,*)A,B
+      C=EXP(SQRT(COS(30*3.14/180)))/ABS(SQRT(A**2+B**2))
+      WRITE(*,*)'THE RESULT IS',C
+      WRITE(*,*)'CREATED BY RADHE SHYAM JANGID'
+      STOP
+      END
+
+Output:-
+
+      ENTER THE VALUE OF A,B
+      1
+      2
+      THE RESULT IS         1.1342340
+      CREATED BY RADHE SHYAM JANGID
+      Stop - Program terminated.

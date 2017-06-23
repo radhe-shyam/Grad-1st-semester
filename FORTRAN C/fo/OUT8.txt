@@ -1,0 +1,55 @@
+	PROGRAM 2.8
+	OUT PUT
+
+
+C:\FORTRAN>a2p8
+ENTER A NUMBER
+13
+            1
+            3
+            5
+            7
+            9
+           11
+           13
+           15
+           17
+           19
+           21
+           23
+           25
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+
+
+
+
+	PROGRAM 2.9
+	OUT PUT
+
+
+C:\FORTRAN>a2p9
+ENTER A NUMBER
+15
+            1
+            4
+            9
+           16
+           25
+           36
+           49
+           64
+           81
+          100
+          121
+          144
+          169
+          196
+          225
+SUMIS         1240
+Stop - Program terminated.
+
+C:\FORTRAN>
+

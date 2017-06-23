@@ -1,0 +1,4 @@
+c     prog for print
+      write(*,*)'piyush'
+      stop
+      end

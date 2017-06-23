@@ -1,0 +1,19 @@
+C     PROGRAM FOR ELECTRIC BILL
+C     DISGNED BY SURENDRA ON 4\10\2007
+      WRITE(*,*)'PREVIOUS READING'
+      READ(*,*)P
+      WRITE(*,*)'CURRENT READING'
+      READ(*,*)C
+      R=6*(C-P)
+      IF(R.LT.1000)THEN
+      WRITE(*,*)'EBILL=',R+(R*10/100)
+      ELSEIF(R.LT.2000)THEN
+      IF(R.GT.2000)THEN
+      WRITE(*,*)'EBILL=',R+(R*20/100)
+      ELSEIF(R.LT.3000)THEN
+      WRITE(*,*)'EBILL=',R+(R*30/00)
+      ENDIF
+      STOP
+      END
+
+

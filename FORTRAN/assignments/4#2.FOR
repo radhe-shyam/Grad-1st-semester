@@ -1,0 +1,16 @@
+C     PROGRAM TO CALCULATE THE COMMISSION
+      WRITE(*,*)'ENTER THE ANNUAL SALE'
+      READ(*,*)S
+      IF (S .LT. 10000) THEN
+      C=S*10/100
+      ELSEIF (S .LT. 20000) THEN
+      C=S*12/100
+      ELSEIF (S .LT. 30000) THEN
+      C=S*15/100
+      ELSE
+      C=S*17/100
+      ENDIF
+      WRITE(*,*)'TOTAL COMMISSION',C
+      WRITE(*,*)'CREATED BY RADHE SHYAM JANGID'
+      STOP
+      END

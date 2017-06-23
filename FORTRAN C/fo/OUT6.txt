@@ -1,0 +1,60 @@
+	PROGRAM 2.4
+	OUT PUT
+
+
+
+
+C:\FORTRAN>a2p4
+HOW MANY NUMBERS YOU WANT
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+11
+           25
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+
+
+
+
+
+
+
+
+
+	PROGRAM 2.5
+	OUT PUT
+
+
+
+
+
+C:\FORTRAN>a2p5
+ENTER A NUMBER
+99
+           99
+          198
+          297
+          396
+          495
+          594
+          693
+          792
+          891
+          990
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+
+
+

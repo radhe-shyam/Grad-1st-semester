@@ -1,0 +1,56 @@
+	PROGRAM 2.1
+	OUT PUT
+
+
+
+C:\FORTRAN>a2p1
+ENTER A DIGIT
+13454
+           17
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+
+
+
+
+
+
+
+
+
+	PROGRAM 2.2
+	OUT PUT
+
+
+
+C:\FORTRAN>a2p2
+ENTER A DIGIT
+12345
+        54321
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+
+
+
+
+
+
+
+
+	PROGRAM 2.3
+	OUT PUT
+
+
+
+C:\FORTRAN>a2p3
+ENTER A DIGIT
+3423
+            3
+Stop - Program terminated.
+
+C:\FORTRAN>
+

@@ -1,0 +1,6 @@
+c     prog for simple intrest
+      read(*,*)'p,r,t'
+      i=(p*r*t)/100
+      print i
+      stop
+      end

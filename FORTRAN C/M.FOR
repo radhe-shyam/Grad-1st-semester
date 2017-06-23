@@ -1,0 +1,8 @@
+	DIMENSION IA(10,10)
+	DO 20 I=1,3
+	DO 20 J=1,3
+	IA(I,J)=1
+20	CONTINUE
+	WRITE(*,*)((IA(I,J),I=1,3),J=1,3)
+	STOP
+	END

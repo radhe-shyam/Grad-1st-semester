@@ -1,0 +1,26 @@
+C     PROGRAM TO CALCULATE THE GRAND SALARY
+      WRITE(*,*)'ENTER THE BASIC SALARY'
+      READ(*,*)S
+      IF (S .LT. 5000) THEN
+      DA=S*45/100
+      HRA=800
+      TA=500
+      GRAND SALARY=S+DA+HRA+TA
+      ELSE
+      DA=S*55/100
+      HRA=1200
+      TA=800
+      GRAND SALARY=S+DA+HRA+TA
+      ENDIF
+      WRITE(*,*)'THE GRAND SALARY IS',GRAND SALARY
+      WRITE(*,*)'CREATED BY RADHE SHYAM JANGID'
+      STOP
+      END
+
+Output:-
+
+      ENTER THE BASIC SALARY
+      5600
+      THE GRAND SALARY IS     10680.0000000
+      CREATED BY RADHE SHYAM JANGID
+      Stop - Program terminated.

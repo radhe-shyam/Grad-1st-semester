@@ -1,0 +1,16 @@
+Steps to compile and run fortran programs using given compiler-
+1)Open DOS and go to the directory in DOS where the fortran compilers
+  are copied.
+2)In the DOS shell enter the command- FOR1 <filename> (Filename
+  consists full path of the file if it is not present in the current
+  directory).
+3)Now write- PAS2 and press enter.
+4)Lastly give the command- LINK <filename> to link the file (Here 
+  filename consists just the name with or without .obj extension.)
+5)Now the setup of the program would have been built in the current
+  folder.Just write the name of program and press enter & enjoy
+  FORTRAN.
+
+Yours sincerely
+Abhishek
+ 

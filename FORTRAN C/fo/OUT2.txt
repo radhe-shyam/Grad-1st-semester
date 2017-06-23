@@ -1,0 +1,43 @@
+	PROGRAM 1.4
+	OUT PUT
+
+C:\FORTRAN>A1P4
+ENTER VALUE OF A:
+4
+ENTER VALUE OF B:
+5
+ENTER VALUE OF C:
+3
+AREA:         3.5707140
+Stop - Program terminated.
+
+
+
+
+	PROGRAM 1.5
+	OUT PUT
+
+
+C:\FORTRAN>A1P5
+ENTER RADIUS:
+6
+AREA:       113.0400000
+CIRCUMFRANCE:        37.6800000
+Stop - Program terminated.
+
+
+
+
+
+	PROGRAM 1.6
+	OUT PUT
+
+C:\FORTRAN>A1P6
+ENTER FIRST VALUE:
+12
+ENTER SECOND VALUE:
+23
+           23IS GREATER
+Stop - Program terminated.
+
+

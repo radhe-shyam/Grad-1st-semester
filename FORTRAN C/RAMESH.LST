@@ -1,0 +1,36 @@
+                                                                         Page   1
+                                                                        11-14-07
+                                                                        09:28:03
+D Line# 1     7                            LACHOO    FORTRAN77 V4.21 August 1988
+      1 C      PROGRAM TO GET SUM OF DIGIT
+      2 C      DEVELOPED BY RAMESH  14/11/07
+      3        WRITE(*,*)'ENTER A DIGIT'
+      4        READ(*,*)N
+      5        ISUM=0
+      6     1  IF(N.GT.0)THEN
+      7        ISUM=ISUM+MOD(N.10)
+***** Error 125 -- "," expected
+***** Error 50 -- invalid symbol in expression
+      8        N=N/10
+      9        GOTO 1
+     10        ENDIF
+     11        WRITE(*,*)ISUM
+     12        STOP
+     13        END
+ 
+Name    Type        Offset P Class
+ 
+ISUM   INTEGER*4        20    
+MOD                          INTRINSIC    
+N      INTEGER*4        16    
+ 
+ 
+     14  
+ 
+Name    Type          Size   Class
+ 
+MAIN                         PROGRAM      
+ 
+ 
+ Pass One     2 Errors Detected
+             14 Source Lines

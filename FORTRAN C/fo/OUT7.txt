@@ -1,0 +1,60 @@
+	PROGRAM 2.6
+	OUT PUT
+
+C:\FORTRAN>a2p6
+ENTER A NUMBER
+21
+            1
+            2
+            3
+            4
+            5
+            6
+            7
+            8
+            9
+           10
+           11
+           12
+           13
+           14
+           15
+           16
+           17
+           18
+           19
+           20
+           21
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+
+
+
+
+	PROGRAM 2.7
+	OUT PUT
+
+C:\FORTRAN>a2p7
+ENTER A NUMBER
+14
+            0
+            2
+            4
+            6
+            8
+           10
+           12
+           14
+           16
+           18
+           20
+           22
+           24
+           26
+Stop - Program terminated.
+
+C:\FORTRAN>
+
+

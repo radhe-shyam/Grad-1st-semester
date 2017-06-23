@@ -1,0 +1,57 @@
+	PROGRAM 1.7
+	OUT PUT
+
+C:\FORTRAN>A1P7
+ENTER A VALUE:
+4
+            4IS EVEN
+Stop - Program terminated.
+
+
+
+
+	PROGRAM 1.8
+	OUT PUT
+
+C:\FORTRAN>A1P8
+ENTER PRINCIPLE
+1000
+ENTER RATE
+3
+ENTER TIME
+2
+        60.8999700
+Stop - Program terminated.
+
+
+
+
+	PROGRAM 1.9
+	OUT PUT
+
+
+C:\FORTRAN>A1P9
+ENTER FIRST VALUE:
+12
+ENTER SECOND VALUE:
+43
+ENTER THIRD VALUE:
+23
+           43IS GREATEST
+Stop - Program terminated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

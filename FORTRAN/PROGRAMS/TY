@@ -1,0 +1,7 @@
+       SUBROUTINE CHECK(N)
+       SQRT(N)
+       I=IP
+       IF((IP-I).EQ.0)THEN
+       RETURN 
+       ENDIF
+       STOP
